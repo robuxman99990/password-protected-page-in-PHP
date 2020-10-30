@@ -1,5 +1,5 @@
 <?php
-if ($_POST['password'] == 'password')
+if ($_POST['password'] == 'your password here')
 echo '';
 
 else
